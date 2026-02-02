@@ -1,0 +1,9 @@
+{
+  "name": "jpy-twd-converter",
+  "version": "1.0.0",
+  "description": "JPY to TWD currency converter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
